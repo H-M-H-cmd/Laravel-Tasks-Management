@@ -8,7 +8,7 @@
 * Delete project ( can't delete the projects that have tasks related to it ).
 * Show tasks that are only related to that project (category).
 
-##installation
+## installation
 1. clone the repository into your local machine (if you are using XAMPP, clone it into "htdocs" folder).
 2. in the app root folder execute the commands:
    * npm install
